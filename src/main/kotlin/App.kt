@@ -8,6 +8,9 @@
 //getBundle
 //MessageFormat
 
+//Kupiłeś i zapłaciłeś: Czapka od H&M
+//Kupiłaś: 5 produktów w tym Czapka od H&M
+//Kupiono i zapłacono: 2 produkty w tym Czapka od 3 sprzedawców
 
 fun main(){
     println("Hello World")
