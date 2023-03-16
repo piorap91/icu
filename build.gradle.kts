@@ -12,7 +12,7 @@ repositories {
 }
 
 dependencies {
-    testImplementation(kotlin("test"))
+    implementation("com.ibm.icu:icu4j:72.1")
 }
 
 tasks.test {
